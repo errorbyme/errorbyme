@@ -1,4 +1,4 @@
-<h1 align="left">Hey There' <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30" /></h1>
+<h1 align="left">Hey There' <img src="hey.gif" width="30" /></h1>
 <h3 align="left">Myself ....</h3>
 
 - :technologist: I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="30" />
